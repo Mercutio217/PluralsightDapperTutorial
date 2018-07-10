@@ -1,0 +1,16 @@
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\MicroOrmDemo.DataLayer.Tests.dll.config
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\MicroOrmDemo.DataLayer.Tests.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\MicroOrmDemo.DataLayer.Tests.pdb
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\Dapper.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\MicroOrmDemo.DataLayer.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\MicroOrmDemo.DataLayer.pdb
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\Dapper.xml
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\obj\Debug\DataLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\obj\Debug\DataLayer.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\obj\Debug\MicroOrmDemo.DataLayer.Tests.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\obj\Debug\MicroOrmDemo.DataLayer.Tests.pdb
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer.Tests\bin\Debug\OrderedTest1.orderedtest

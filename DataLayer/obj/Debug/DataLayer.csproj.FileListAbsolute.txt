@@ -1,0 +1,7 @@
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\bin\Debug\MicroOrmDemo.DataLayer.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\bin\Debug\MicroOrmDemo.DataLayer.pdb
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\bin\Debug\Dapper.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\bin\Debug\Dapper.xml
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\obj\Debug\MicroOrmDemo.DataLayer.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\DataLayer\obj\Debug\MicroOrmDemo.DataLayer.pdb

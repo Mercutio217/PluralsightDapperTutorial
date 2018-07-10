@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="c:\users\lbielenin\downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\microormdemo\datalayer.tests\orderedtest1.orderedtest" id="84c0a041-9700-47f5-b1ad-911b49a12d40" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="711f8916-b1d1-365d-983b-5ab415f1e9a1" name="GetAllShouldReturn6Results" storage="bin\debug\microormdemo.datalayer.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="9efaedc1-1dbd-6c30-0546-8e1b05001d26" name="Insert_should_assign_identity_to_new_entity" storage="bin\debug\microormdemo.datalayer.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="0ed543e4-5f97-7380-d21c-1b5df09a2fed" name="Modify_should_update_existing_entity" storage="bin\debug\microormdemo.datalayer.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="e5f36193-c130-6524-5e4d-c748410f2994" name="Find_should_retrieve_existing_entity" storage="bin\debug\microormdemo.datalayer.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

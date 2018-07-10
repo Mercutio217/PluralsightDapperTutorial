@@ -1,0 +1,5 @@
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\Database\bin\Debug\Database.dacpac
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\Database\bin\Debug\Database.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\Database\bin\Debug\Database.pdb
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\Database\obj\Debug\Database.dll
+C:\Users\lbielenin\Downloads\dotnet-micro-orms-introduction\2-dotnet-micro-orms-m2-dapper-exercise-files\demos\before\MicroORMDemo\Database\obj\Debug\Database.pdb
